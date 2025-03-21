@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Love+to+Code+Web+Pages;Full+Stack+Developer;Computer+Systems+Engineer;Node.js+Developer;Always+Learning;Astro+and+React+Lover+<3"></a>
 </p>
 
-<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/7a/c5/1a/7ac51a290fd48af99250eb9da0414731.gif" />
+<img align="right" width=300px alt="Sponge Bob" src="https://i.pinimg.com/originals/7a/c5/1a/7ac51a290fd48af99250eb9da0414731.gif" />
 
 I’m a Computer Systems Engineer, 23 years old, based in Oaxaca, Mexico. I love programming, problem-solving, and I’m passionate about web and mobile design. I enjoy every stage of development, from the initial idea to the final product, always striving to create functional and engaging experiences. 🚀
 
@@ -36,4 +36,15 @@ I’m a Computer Systems Engineer, 23 years old, based in Oaxaca, Mexico. I love
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,css,postgres,prisma,express,figma,firebase,github,html,java,js,md,nextjs,nodejs,postman,py,react,tailwind,ts,astro,vscode,photoshop,discord&perline=14" />
   </a>
+</p>
+
+<br>
+
+<h2>📲 Let's get in touch</h2>
+<br>
+
+<p align="center">
+  <a href="https://nizvan-dev.vercel.app"><img src="https://img.icons8.com/?size=50&id=9x65MLqCekT5&format=png&color=000000" alt="Website"/></a>
+	<a href="mailto:nizvan.dev@gmail.com"><img src="https://img.icons8.com/?size=50&id=xLIkjgcmFOsC&format=png&color=000000" alt="Gmail"/></a>
+	<a href="https://www.instagram.com/nizvan_dev/"><img src="https://img.icons8.com/?size=50&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram"/></a>
 </p>
